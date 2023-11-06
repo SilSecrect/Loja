@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Perfume Masculino</title>
+    <script src="https://kit.fontawesome.com/92d70a2fd8.js" crossorigin="anonymous"></script>
+    <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <link rel="stylesheet" href="/style.css">
+    <link rel="stylesheet" href="/main.css">
+    <link rel="stylesheet" href="catalogo.css">
+    <link rel="stylesheet" media="(min-width:150px) and (max-width: 768px)" href="/mobile.css">
+    <script src="/menu.js"></script>
+    
+</head>
+<body>
+    <header>
+        <nav class="nav-bar">
+        <a href="/loja.html"> <h1 class="logo">MKL & IMPORTADOS</h1></a>
+          <div class="nav-list">
+        <ul> 
+            <details >
+                <summary class="nav-item">Catálogo</summary>
+                    <div><a class="containe" href="/loja.html">Loja</a></div>
+                    <div><a class="containe" href="femenino.html">Femenino</a></div>           
+            </details>
+
+            </ul>
+            </div>
+            <div class="login-button">
+                <button id="entrar-carrinho"><i class="material-icons">shopping_cart</i></button>
+            </div>
+
+            <div class="mobile-menu-icon">
+                <button  onclick="show()"><i class="material-icons" style="color: white;">format_align_center</i></button>
+                
+            </div>
+         </nav>
+         <div class="mobile-menu">
+            <ul>
+              >
+                <details class="nav-item">
+                    <summary >Catálogo</summary>
+                    <div><a class="containe" href="/loja.html">Loja</a></div>
+                    <div><a class="containe" href="femenino.html">Femenino</a></div>
+                    </details>
+               
+            </ul>
+            <div class="login-button">
+                <button id="entrar-carrinho"><i class="material-icons ">shopping_cart</i></button>
+                
+            </div>
+         </div>
+         <div class="cart">
+        <button id="entrar" style="color: rgb(12, 12, 12);"><p id="count">0</p><i class="fa-solid fa-cart-shopping"></i></button></div>
+    </header>
+    
+    
+        <div id="root"></div>            
+        <div class="sidebar" id="carrinho">
+            <div class="head"><button id="sair" style="color: white;"><i class="fa fa-arrow-left"></i></button><p>My Cart</p></div>
+            <div id="cartItem">Your cart is empty</div>
+            <div class="foot">
+                <h3 class="texto">Total</h3>
+                <p id="total" >$ 0.00</p>
+            </div>
+            <input class="btn" type="button" value="Finalizar">
+        </div>
+    <script src="m.js"></script>
+
+</body>
+</html>
