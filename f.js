@@ -1,7 +1,7 @@
 const product = [
   {
     id: 1,
-    marca: "MKL",
+    marca: "SIL",
     nome: "Perfume",
     preco: 125.00,
     imagem: "f12.png",
@@ -9,7 +9,7 @@ const product = [
   },
 {
     id: 2,
-    marca: "MKL",
+    marca: "SIL",
     nome: "Fahrenheit 100ml",
     preco: 280.00,
     imagem: "f2.png",
@@ -17,7 +17,7 @@ const product = [
   },
 {
     id: 3,
-    marca: "MKL",
+    marca: "SIL",
     nome: "Gabriela Sabatini 100ml",
     preco: .00,
     imagem: "f3.png",
@@ -25,7 +25,7 @@ const product = [
   },
 {
     id: 4,
-    marca: "MKL",
+    marca: "SIL",
     nome: "Mugle Angel 100ml",
     preco: 300.00,
     imagem: "f4.png",
@@ -33,7 +33,7 @@ const product = [
   },
 {
     id: 5,
-    marca: "MKL",
+    marca: "SIL",
     nome: "Giorgio Armani 100ml",
     preco: 250.00,
     imagem: "f5.png",
@@ -41,7 +41,7 @@ const product = [
   },
 {
     id: 6,
-    marca: "MKL",
+    marca: "SIL",
     nome: "Armani Cude 125ml", //Masculino
     preco: 300.00,
     imagem: "f6.png",
@@ -49,7 +49,7 @@ const product = [
   },
 {
     id: 7,
-    marca: "MKL",
+    marca:"SIL",
     nome: "Chanel Chance 100ml",
     preco: 320.00,
     imagem: "f7.png",
@@ -57,7 +57,7 @@ const product = [
   },
 {
     id: 8,
-    marca: "MKL",
+    marca: "SIL",
     nome: "Miss Dior 100ml",
     preco: 320.00,
     imagem: "f8.png",
@@ -65,7 +65,7 @@ const product = [
   },
 {
     id: 9,
-    marca: "MKL",
+    marca: "SIL",
     nome: "Gabriela Sabatini 100ml",
     preco: .00,
     imagem: "f9.png",
@@ -73,7 +73,7 @@ const product = [
   },
 {
     id: 10,
-    marca: "MKL",
+    marca: "SIL",
     nome: "Gaultier Scandal 100ml",
     preco: 300.00,
     imagem: "f10.png",
@@ -81,7 +81,7 @@ const product = [
   },
 {
     id: 11,
-    marca: "MKL",
+    marca: "SIL",
     nome: "Perfume",
     preco: 100.00,
     imagem: "f11.png",
