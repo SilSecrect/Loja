@@ -1,7 +1,7 @@
 const product = [
   {
     id: 1,
-    marca: "_mj.",
+    marca: "SIL",
     nome: "Perfume",
     preco: 155.00,
     imagem: "m1.png",
@@ -9,7 +9,7 @@ const product = [
   },
 {
     id: 2,
-    marca: "_mj.",
+    marca: "SIL",
     nome: "Perfume",
     preco: 155.00,
     imagem: "m2.png",
@@ -17,7 +17,7 @@ const product = [
   },
 {
     id: 3,
-    marca: "_mj.",
+    marca: "SIL",
     nome: "Perfume",
     preco: 155.00,
     imagem: "m3.png",
@@ -25,7 +25,7 @@ const product = [
   },
 {
     id: 4,
-    marca: "_mj.",
+    marca: "SIL",
     nome: "Perfume",
     preco: 155.00,
     imagem: "m4.png",
@@ -33,7 +33,7 @@ const product = [
   },
 {
     id: 5,
-    marca: "_mj.",
+    marca: "SIL",
     nome: "Perfume",
     preco: 155.00,
     imagem: "m5.png",
@@ -41,7 +41,7 @@ const product = [
   },
 {
     id: 6,
-    marca: "_mj.",
+    marca: "SIL",
     nome: "Perfume",
     preco: 155.00,
     imagem: "m6.png",
@@ -49,7 +49,7 @@ const product = [
   },
 {
     id: 7,
-    marca: "_mj.",
+    marca: "SIL",
     nome: "Perfume",
     preco: 155.00,
     imagem: "m7.png",
@@ -57,7 +57,7 @@ const product = [
   },
 {
     id: 8,
-    marca: "_mj.",
+    marca: "SIL",
     nome: "Perfume",
     preco: 155.00,
     imagem: "m8.png",
@@ -65,7 +65,7 @@ const product = [
   },
 {
     id: 9,
-    marca: "_mj.",
+    marca: "SIL",
     nome: "Perfume",
     preco: 155.00,
     imagem: "m9.png",
@@ -73,7 +73,7 @@ const product = [
   },
 {
     id: 10,
-    marca: "_mj.",
+    marca: "SIL",
     nome: "Perfume",
     preco: 155.00,
     imagem: "m10.png",
@@ -81,7 +81,7 @@ const product = [
   },
 {
     id: 11,
-    marca: "_mj.",
+    marca: "SIL",
     nome: "Perfume",
     preco: 155.00,
     imagem: "m11.png",
@@ -89,7 +89,7 @@ const product = [
   },
 {
     id: 12,
-    marca: "_mj.",
+    marca: "SIL",
     nome: "Perfume",
     preco: 155.00,
     imagem: "m12.png",
@@ -97,7 +97,7 @@ const product = [
   },
 {
     id: 13,
-    marca: "_mj.",
+    marca: "SIL",
     nome: "Perfume",
     preco: 155.00,
     imagem: "m13.png",
@@ -105,7 +105,7 @@ const product = [
   },
 {
     id: 15,
-    marca: "_mj.",
+    marca: "SIL",
     nome: "Perfume",
     preco: 155.00,
     imagem: "m15.png",
@@ -113,7 +113,7 @@ const product = [
   },
 {
     id: 16,
-    marca: "_mj.",
+    marca: "SIL",
     nome: "Perfume",
     preco: 155.00,
     imagem: "m16.png",
@@ -133,8 +133,7 @@ document.getElementById('root').innerHTML = categories.map((item)=>
           <p>${nome}</p>
           <h2>$ ${preco}.00</h2>`+
          "<button class='add' onclick='addtocart("+(i++)+")'><i class='fa-solid fa-cart-shopping'></i></button>"+
-         `</div>`
-        
+         `</div>`       
     )
 }).join('')
 
