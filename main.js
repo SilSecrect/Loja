@@ -1,119 +1,119 @@
 const catalogo = [
     {
         id: 1,
-        marca: "MKL | IMPORTADOS",
+        marca: "SIL || SECRECT",
         nome: "Perfume",
         imagem: "1.jpg",
        
       },
     {
         id: 2,
-        marca: "MKL | IMPORTADOS",
+        marca: "SIL || SECRECT",
         nome: "Perfume",
         imagem: "2.jpg",
        
       },
     {
         id: 3,
-        marca: "MKL | IMPORTADOS",
+        marca: "SIL || SECRECT",
         nome: "Perfume",
         imagem: "3.jpg",
        
       },
     {
         id: 4,
-        marca: "MKL | IMPORTADOS",
+        marca: "SIL || SECRECT",
         nome: "Perfume",
         imagem: "4.jpg",
        
       },
     {
         id: 5,
-        marca: "MKL | IMPORTADOS",
+        marca: "SIL || SECRECT",
         nome: "Perfume",
         imagem: "5.jpg",
        
       },
     {
         id: 6,
-        marca: "MKL | IMPORTADOS",
+        marca: "SIL || SECRECT",
         nome: "Perfume",
         imagem: "6.jpg",
        
       },
     {
         id: 7,
-        marca: "MKL | IMPORTADOS",
+        marca: "SIL || SECRECT",
         nome: "Perfume",
         imagem: "7.jpg",
        
       },
     {
         id: 8,
-        marca: "MKL | IMPORTADOS",
+        marca: "SIL || SECRECT",
         nome: "Perfume",
         imagem: "8.jpg",
        
       },
     {
         id: 9,
-        marca: "MKL | IMPORTADOS",
+        marca: "SIL || SECRECT",
         nome: "Perfume",
         imagem: "9.jpg",
        
       },
     {
         id: 10,
-        marca: "MKL | IMPORTADOS",
+        marca: "SIL || SECRECT",
         nome: "Perfume",
         imagem: "10.jpg",
        
       },
     {
         id: 11,
-        marca: "MKL | IMPORTADOS",
+        marca: "SIL || SECRECT",
         nome: "Perfume",
         imagem: "11.jpg",
        
       },
     {
         id: 12,
-        marca: "MKL | IMPORTADOS",
+        marca: "SIL || SECRECT",
         nome: "Perfume",
         imagem: "12.jpg",
        
       },
     {
         id: 13,
-        marca: "MKL | IMPORTADOS",
+        marca: "SIL || SECRECT",
         nome: "Perfume",
         imagem: "13.jpg",
        
       },
     {
         id: 15,
-        marca: "MKL | IMPORTADOS",
+        marca: "SIL || SECRECT",
         nome: "Perfume",
         imagem: "15.jpg",
        
       },
     {
         id: 16,
-        marca: "MKL | IMPORTADOS",
+        marca: "SIL || SECRECT",
         nome: "Perfume",
         imagem: "16.jpg",
        
       },
     {
         id: 17,
-        marca: "MKL | IMPORTADOS",
+        marca: "SIL || SECRECT",
         nome: "Perfume",
         imagem: "17.jpg",
        
       },
     {
         id: 18,
-        marca: "MKL | IMPORTADOS",
+        marca: "SIL || SECRECT",
         nome: "Perfume",
         imagem: "18.jpg",
        
@@ -122,7 +122,7 @@ const catalogo = [
       
       {
           id: 19,
-          marca: "MKL | IMPORTADOS",
+          marca: "SIL || SECRECT",
           nome: "Perfume",
 
           imagem: "19.jpg",
@@ -130,7 +130,7 @@ const catalogo = [
         },
       {
           id: 21,
-          marca: "MKL | IMPORTADOS",
+          marca: "SIL || SECRECT",
           nome: "Perfume",
 
           imagem: "21.jpg",
@@ -138,7 +138,7 @@ const catalogo = [
         },
       {
           id: 22,
-          marca: "MKL | IMPORTADOS",
+          marca: "SIL || SECRECT",
           nome: "Perfume",
 
           imagem: "22.jpg",
@@ -146,7 +146,7 @@ const catalogo = [
         },
       {
           id: 23,
-          marca: "MKL | IMPORTADOS",
+          marca: "SIL || SECRECT",
           nome: "Perfume",
 
           imagem: "23.jpg",
@@ -154,7 +154,7 @@ const catalogo = [
         },
       {
           id: 24,
-          marca: "MKL | IMPORTADOS",
+          marca: "SIL || SECRECT",
           nome: "Perfume",
 
           imagem: "24.jpg",
@@ -162,7 +162,7 @@ const catalogo = [
         },
       {
           id: 25,
-          marca: "MKL | IMPORTADOS",
+          marca: "SIL || SECRECT",
           nome: "Perfume",
 
           imagem: "25.jpg",
@@ -170,7 +170,7 @@ const catalogo = [
         },
       {
           id: 26,
-          marca: "MKL | IMPORTADOS",
+          marca: "SIL || SECRECT",
           nome: "Perfume",
 
           imagem: "26.jpg",
@@ -178,7 +178,7 @@ const catalogo = [
         },
       {
           id: 27,
-          marca: "MKL | IMPORTADOS",
+          marca: "SIL || SECRECT",
           nome: "Perfume",
 
           imagem: "27.jpg",
@@ -186,7 +186,7 @@ const catalogo = [
         },
       {
           id: 28,
-          marca: "MKL | IMPORTADOS",
+          marca: "SIL || SECRECT",
           nome: "Perfume",
 
           imagem: "28.jpg",
@@ -194,7 +194,7 @@ const catalogo = [
         },
       {
           id: 29,
-          marca: "MKL | IMPORTADOS",
+          marca: "SIL || SECRECT",
           nome: "Perfume",
 
           imagem: "29.jpg",
@@ -202,7 +202,7 @@ const catalogo = [
         },
       {
           id: 30,
-          marca: "MKL | IMPORTADOS",
+          marca: "SIL || SECRECT",
           nome: "Perfume",
 
           imagem: "30.jpg",
@@ -210,7 +210,7 @@ const catalogo = [
         },
       {
           id: 31,
-          marca: "MKL | IMPORTADOS",
+          marca: "SIL || SECRECT",
           nome: "Perfume",
 
           imagem: "31.jpg",
@@ -218,7 +218,7 @@ const catalogo = [
         },
       {
           id: 32,
-          marca: "MKL | IMPORTADOS",
+          marca: "SIL || SECRECT",
           nome: "Perfume",
 
           imagem: "32.jpg",
@@ -226,7 +226,7 @@ const catalogo = [
         },
       {
           id: 33,
-          marca: "MKL | IMPORTADOS",
+          marca: "SIL || SECRECT",
           nome: "Perfume",
 
           imagem: "33.jpg",
@@ -234,7 +234,7 @@ const catalogo = [
         },
       {
           id: 34,
-          marca: "MKL | IMPORTADOS",
+          marca: "SIL || SECRECT",
           nome: "Perfume",
 
           imagem: "34.jpg",
@@ -242,7 +242,7 @@ const catalogo = [
         },
       {
           id: 35,
-          marca: "MKL | IMPORTADOS",
+          marca: "SIL || SECRECT",
           nome: "Perfume",
 
           imagem: "35.jpg",
@@ -250,7 +250,7 @@ const catalogo = [
         },
       {
           id: 36,
-          marca: "MKL | IMPORTADOS",
+          marca: "SIL || SECRECT",
           nome: "Perfume",
 
           imagem: "36.jpg",
